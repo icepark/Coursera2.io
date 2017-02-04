@@ -41,8 +41,13 @@ article > p {
     padding-left: 15px;
     padding-right: 15px;
     clear: both;
-    
+     
 }
+
+.section > p{
+    background-color: #00ffff;
+  
+      
 
 #wd {
     background-color: #ff7f50;
