@@ -4,7 +4,7 @@
 
 body {
 background:#ffffff;
-font-family: "Trebuchet MS", Verdana, Arial, serif;
+font-family: 'Sansita', sans-serif;
 }
 
 header {
@@ -45,7 +45,7 @@ article > p {
 }
 
 #wd {
-    background-color: #f0f8ff;
+    background-color: #ff7f50;
 }
 
 #gd {
